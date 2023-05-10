@@ -5,6 +5,8 @@
  * read_textfile- Reads a text file and prints to STDOUT.
  * @filename: text file being read
  * @letters: number of letters to be read
+ *
+ * By blessing for alx project
  * Return: w- actual number of bytes it should read and print
  *        0 when function fails or filename is NULL.
  */
